@@ -1,0 +1,6 @@
+{
+  "name": "Cloudflare Worker Backend",
+  "description": "A high-performance Cloudflare Worker REST API backend integration for MongoDB Atlas and Supabase Auth",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
